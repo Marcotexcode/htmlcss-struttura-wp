@@ -36,6 +36,10 @@ body {
 
 /* corpo */
 
+.main_container {
+    height: 600px;
+    background-color: rgb(32, 76, 211);
+}
 
 
 
