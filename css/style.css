@@ -17,7 +17,7 @@ body {
 /* intestazione */
 
 .header {
-    height: 70px;
+    height: 80px;
     background-color: rgb(219, 78, 219);
 }
 
@@ -43,6 +43,17 @@ body {
 
 
 
+
+/* header corpo */
+
+.main_header {
+    height: 70px;
+    background: skyblue;
+}
+
+
+
+
 /* aside */
 
 
@@ -54,3 +65,13 @@ body {
 
 
 /* footer */
+
+
+
+
+/* clearfix  */
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
