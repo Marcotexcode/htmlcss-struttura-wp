@@ -6,7 +6,7 @@
 }
 
 body {
-    padding: 10px 100px;
+    padding: 10px 250px;
 }
 
 /* classi in comune */
@@ -82,7 +82,7 @@ body {
 
 .footer {
     height: 60px;
-    background-color: rgb(172, 0, 172);
+    background-color: #673ab7;
     margin-top: 10px;
 }
 
