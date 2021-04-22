@@ -1,1 +1,48 @@
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 10px 100px;
+}
+
+/* classi in comune */
+
+
+
+
+/* intestazione */
+
+.header {
+    width: 100;
+    height: 70px;
+    background-color: rgb(219, 78, 219);
+}
+
+
+
+
+/* articolo */
+
+
+
+
+/* corpo */
+
+
+
+
+/* aside */
+
+
+
+
+/* section */
+
+
+
+
+/* footer */
